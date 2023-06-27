@@ -1,2 +1,1 @@
-# Aulas-Desenvolvimento-de-Software-Orientado-a-Objetos
-Aulas Desenvolvimento de Software Orientado a Objetos - IFSP
+Aulas de Desenvolvimento de Software Orientado a Objetos no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
